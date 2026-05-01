@@ -516,10 +516,6 @@ Quick start checklist:
 
 ---
 
-## Lab
-
-**BELIV Lab**
-Graduate Research Assistant — April 2025 to Present
 
 *Research focuses on physics-informed machine learning for battery thermal safety in electric vehicle applications.*
 
